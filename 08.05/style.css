@@ -1,0 +1,7 @@
+.container{
+    display: inline-block;
+    border: 10px;
+    padding: 30px;
+    color: blue;
+    border: solid black 1px;
+}
